@@ -5,6 +5,7 @@ Documentazione legale dell'app **help2you** (supporto al benessere emotivo).
 - [Informativa sulla Privacy](privacy-policy.html)
 - [Termini e Condizioni d'Uso](termini-di-servizio.html)
 - [Disclaimer medico e Intelligenza Artificiale](disclaimer-medico-ai.html)
+- [Assistenza / Support](supporto.html)
 
 **Titolare/Fornitore:** Matteo Bonetti — info@mn99-lab.it
 
